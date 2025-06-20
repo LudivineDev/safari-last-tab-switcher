@@ -12,8 +12,6 @@ If you often switch back and forth between two tabs while browsing, this script 
 
 Hammerspoon is a free macOS automation tool. Here's how to install it:
 
-#### 🖱 Option A: Manual install
-
 1. Download the latest Hammerspoon `.zip` file from the official release page:  
    👉 [Hammerspoon 1.0.0](https://github.com/Hammerspoon/hammerspoon/releases/tag/1.0.0)
 
